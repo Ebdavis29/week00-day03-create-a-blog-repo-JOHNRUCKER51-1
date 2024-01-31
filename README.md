@@ -62,4 +62,4 @@ Share a link to your blog below AND with your classmates in slack.
 
 Then, review the sites of your classmates, use the Reply in Thread option on your classmates' message in slack, stating what you learned from them. Be sure to click through to their Github profile pages to "follow" each of your classmates.
 
-Reading Notes URL: ________________________________
+Reading Notes URL:https://sidequests.onrender.com/Blog/2024/Ebdavis29/
